@@ -42,19 +42,19 @@ $ python3 ./src/visualize.py --input_path=reduced.lang --key='#coronavirus'
 
 with the `--input_path` equal to both the country and lang files created in the reduce phase, and the `--key` set to `#coronavirus` and `#코로나바이러스`, this generated the following plots:
 
-![coronavirus_country](https://github.com/lbielicki/twitter_coronavirus/blob/master/coronavirus_country.png)
+![coronavirus_country](https://github.com/lbielicki/twitter_coronavirus/blob/main/coronavirus_country.png)
 
-![coronavirus_lang](https://github.com/lbielicki/twitter_coronavirus/blob/master/coronavirus_lang.png)
+![coronavirus_lang](https://github.com/lbielicki/twitter_coronavirus/blob/main/coronavirus_lang.png)
 
 As well as:
 
-![korean_country](https://github.com/lbielicki/twitter_coronavirus/blob/master/%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_country.png)
+![korean_country](https://github.com/lbielicki/twitter_coronavirus/blob/main/%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_country.png)
 
-![korean_lang](https://github.com/lbielicki/twitter_coronavirus/blob/master/%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_lang.png)
+![korean_lang](https://github.com/lbielicki/twitter_coronavirus/blob/main/%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_lang.png)
 
 
 **Task 4: Alternative Reduce**
 
 Finally, I created a new file `alternative_reduce.py`. This followed a similar structure to a combined version of the `reduce.py` and `visualize.py` files. I used this file to analyze three hashtags, #coronavirus, #corona, and #covid19.
 
-![three_hashtags](https://github.com/lbielicki/twitter_coronavirus/blob/master/coronavirus_corona_covid19.png)
+![three_hashtags]([https://github.com/lbielicki/twitter_coronavirus/blob/master/coronavirus_corona_covid19.png](https://github.com/lbielicki/twitter_coronavirus/blob/main/coronavirus_corona_covid19.png)https://github.com/lbielicki/twitter_coronavirus/blob/main/coronavirus_corona_covid19.png)
