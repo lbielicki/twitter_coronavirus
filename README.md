@@ -73,9 +73,9 @@ Finally, I created a new file `alternative_reduce.py`. This followed a similar s
 ![three_hashtags](https://github.com/lbielicki/twitter_coronavirus/blob/main/coronavirus_corona_covid19.png)
 
 
-I was also curious about the hashtags #doctor and #nurse, so I created another visualization. 
+I was also curious about the hashtags #doctor and #hospital, so I created another visualization. 
 
-**Use of #doctor and #nurse in 2020**
+**Use of #doctor and #hospital in 2020**
 
 
-![doctor_nurse](https://github.com/lbielicki/twitter_coronavirus/blob/main/doctor_nurse.png)
+![doctor_hospital](https://github.com/lbielicki/twitter_coronavirus/blob/main/doctor_hospital.png)
