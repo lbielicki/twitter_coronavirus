@@ -42,13 +42,23 @@ $ python3 ./src/visualize.py --input_path=reduced.lang --key='#coronavirus'
 
 with the `--input_path` equal to both the country and lang files created in the reduce phase, and the `--key` set to `#coronavirus` and `#코로나바이러스`, this generated the following plots:
 
+---
+
+**Use of #coronavirus in 2020 by country**
+
 ![coronavirus_country](https://github.com/lbielicki/twitter_coronavirus/blob/main/coronavirus_country.png)
+
+** Use of #coronavirus in 2020 by language **
 
 ![coronavirus_lang](https://github.com/lbielicki/twitter_coronavirus/blob/main/coronavirus_lang.png)
 
 As well as:
 
+**Use of #코로나바이러스 in 2020 by country** 
+
 ![korean_country](https://github.com/lbielicki/twitter_coronavirus/blob/main/%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_country.png)
+
+**Use of #코로나바이러스 in 2020 by language**
 
 ![korean_lang](https://github.com/lbielicki/twitter_coronavirus/blob/main/%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_lang.png)
 
@@ -57,4 +67,14 @@ As well as:
 
 Finally, I created a new file `alternative_reduce.py`. This followed a similar structure to a combined version of the `reduce.py` and `visualize.py` files. I used this file to analyze three hashtags, #coronavirus, #corona, and #covid19.
 
-![three_hashtags]([https://github.com/lbielicki/twitter_coronavirus/blob/master/coronavirus_corona_covid19.png](https://github.com/lbielicki/twitter_coronavirus/blob/main/coronavirus_corona_covid19.png)https://github.com/lbielicki/twitter_coronavirus/blob/main/coronavirus_corona_covid19.png)
+**Use of #coronavirus, #corona, and #covid19 in 2020**
+
+![three_hashtags](https://github.com/lbielicki/twitter_coronavirus/blob/main/coronavirus_corona_covid19.png)
+
+
+I was also curious about the hashtags #doctor and #nurse, so I created another visualization. 
+
+**Use of #doctor and #nurse in 2020**
+
+
+![doctor_nurse](https://github.com/lbielicki/twitter_coronavirus/blob/main/doctor_nurse.png)
