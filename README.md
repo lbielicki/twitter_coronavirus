@@ -48,7 +48,7 @@ with the `--input_path` equal to both the country and lang files created in the 
 
 ![coronavirus_country](https://github.com/lbielicki/twitter_coronavirus/blob/main/coronavirus_country.png)
 
-** Use of #coronavirus in 2020 by language **
+**Use of #coronavirus in 2020 by language**
 
 ![coronavirus_lang](https://github.com/lbielicki/twitter_coronavirus/blob/main/coronavirus_lang.png)
 
@@ -62,6 +62,7 @@ As well as:
 
 ![korean_lang](https://github.com/lbielicki/twitter_coronavirus/blob/main/%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_lang.png)
 
+---
 
 **Task 4: Alternative Reduce**
 
